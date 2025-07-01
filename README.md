@@ -29,6 +29,7 @@ ________________________________________
   - Styling / Responsiveness (optional)  
   - Deployment  
 - Assign issues to milestone and yourself
+Yessir
 
 ________________________________________
 
