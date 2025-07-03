@@ -120,3 +120,4 @@ As you work on your portfolio, please update this README.md file with the follow
   [Contact page screenshot](images/Contact%20Page.png)
 
   Learnt about git revert
+  Learnt about stash
