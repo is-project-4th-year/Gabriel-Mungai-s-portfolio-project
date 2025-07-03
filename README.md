@@ -118,3 +118,5 @@ As you work on your portfolio, please update this README.md file with the follow
   [Homepage screenshot](images/Homepage.png)
   [About Me screenshot](images/About%20Me.png)
   [Contact page screenshot](images/Contact%20Page.png)
+
+  Learnt about git revert
